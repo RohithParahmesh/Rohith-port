@@ -1,0 +1,10 @@
+<svg width="629" height="651" viewBox="0 0 629 651" fill="none" >
+<rect x="314" width="161" height="161" rx="20" fill="#6300E4"/>
+<rect x="314" y="329" width="161" height="161" rx="20" fill="#6300E4"/>
+<rect x="468" y="161" width="161" height="161" rx="20" fill="#6300E4" fill-opacity="0.5"/>
+<path d="M0 349C0 337.954 8.95431 329 20 329H141C152.046 329 161 337.954 161 349V470C161 481.046 152.046 490 141 490H20C8.9543 490 0 481.046 0 470V349Z" fill="#BF95F7" fill-opacity="0.5"/>
+<rect x="153" y="162" width="161" height="161" rx="20" fill="white"/>
+<rect x="153" y="490" width="161" height="161" rx="20" fill="white"/>
+<circle cx="391.5" cy="242.5" r="74.5" fill="#FF64CB"/>
+<circle cx="237.5" cy="407.5" r="74.5" fill="#01D4DB"/>
+</svg>
